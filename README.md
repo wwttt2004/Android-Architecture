@@ -2,7 +2,7 @@
 
 + [著名公司架构](#著名公司架构)
 + [常见架构方法](#常见架构方法)
-+ [架构库](https://github.com/Juude/Awesome-Android-Architecture/blob/master/Library.md)
++ [架构库](https://github.com/wwttt2004/Android-Architecture/blob/master/Library.md)
 
 
 
